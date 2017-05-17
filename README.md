@@ -48,3 +48,4 @@ If any bugs please contact us on https://twitter.com/@UniversalCoders
 * List more websites
 * Add more 'Exploits'
 * Fix Framework
+* Add Web Browser option
