@@ -34,6 +34,10 @@ XSS, SQL, LFI, RFI Injector in python! This tool is only used to find vulnerabil
 * Python2.7
 * Termcolor
 
+# Tested On
+
+* Parrot Os 3.6
+
 # !Bugs
 
 * Only [.com]
