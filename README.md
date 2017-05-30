@@ -32,6 +32,7 @@ XSS, SQL, LFI, RFI Injector in python! This tool is only used to find vulnerabil
 # Requirements
 
 * Python2.7
+* Termcolor
 
 # !Bugs
 
