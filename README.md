@@ -36,7 +36,7 @@ XSS, SQL, LFI, RFI Injector in python! This tool is only used to find vulnerabil
 # !Bugs
 
 * Only [.com]
-* Works: [http://, https:// www.]  
+* Works: [www.]  
 * May not find all exploits
 
 If any bugs please contact us on https://twitter.com/@UniversalCoders
