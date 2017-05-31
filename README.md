@@ -49,9 +49,5 @@ If any bugs please contact us on https://twitter.com/@UniversalCoders
 # TODO
 
 * File output
-* List more websites
-* Add more 'Exploits'
-* Fix Framework
-
 
 ### Updates coming soon!
